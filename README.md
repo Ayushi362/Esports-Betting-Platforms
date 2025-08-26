@@ -46,7 +46,7 @@ We aim to become the leading decentralized betting platform for the growing espo
 
 ## Contract Address Details
 
-*Contract deployment details will be added after deployment*
+
 
 **Network**: Stacks Blockchain  
 **Contract Address**: ST2MWE03FS3CN71MDBWYMAHZMMDZMYP5QDYFDCR5B.EsportsBettingPlatform
@@ -88,4 +88,3 @@ We aim to become the leading decentralized betting platform for the growing espo
 
 ---
 
-*This project is open-source and welcomes community contributions. Join us in building the future of decentralized esports betting!*
