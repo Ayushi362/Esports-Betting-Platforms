@@ -52,10 +52,6 @@ We aim to become the leading decentralized betting platform for the growing espo
 **Contract Address**: ST2MWE03FS3CN71MDBWYMAHZMMDZMYP5QDYFDCR5B.EsportsBettingPlatform
 <img width="1919" height="787" alt="Screenshot 2025-08-26 121658" src="https://github.com/user-attachments/assets/8225df8c-fe07-48d2-a6ca-6fafa8c68c4a" />
 
-**Deployer Address**: `[To be added after deployment]`  
-**Deployment Transaction**: `[To be added after deployment]`  
-**Block Height**: `[To be added after deployment]`
-
 ### Contract Functions
 
 #### Main Functions:
@@ -86,5 +82,4 @@ We aim to become the leading decentralized betting platform for the growing espo
 - **Secure Fund Handling**: STX tokens are held securely in the contract
 - **Platform Fee**: 5% platform fee to maintain and improve the service
 
----
 
